@@ -1,0 +1,4 @@
+django-5.0
+celery-5.3.6
+rabbitmq-server
+user-agent
